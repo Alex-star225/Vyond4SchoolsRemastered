@@ -54,10 +54,10 @@ header {
 }
 /* small buttons */
 .button_small       { background: #333 }
-.button_small:hover { background: #444; color: #1ad9af }
+.button_small:hover { background: #444; color: #43bca5 }
 /* big buttons */
 .button_big {
-	background-color: #1ad9af;
+	background-color: #43bca5;
 	width: 160px;
 }
 .button_big:hover {
