@@ -22,7 +22,7 @@ header
 **/
 header {
 	/* style */
-	background: #1e1e1e;
+	background: #ffffff;
 	color: #fff;
 	text-align: center;
 	/* layout */
@@ -54,10 +54,10 @@ header {
 }
 /* small buttons */
 .button_small       { background: #333 }
-.button_small:hover { background: #444; color: #d85e27 }
+.button_small:hover { background: #444; color: #1ad9af }
 /* big buttons */
 .button_big {
-	background-color: #d85e27;
+	background-color: #1ad9af;
 	width: 160px;
 }
 .button_big:hover {
