@@ -22,7 +22,7 @@ header
 **/
 header {
 	/* style */
-	background: #1e1e1e;
+	background: #ffffff;
 	color: #fff;
 	text-align: center;
 	/* layout */
@@ -41,7 +41,7 @@ header {
 	/* style */
 	font-size: 14px;
 	text-decoration: none;
-	color: #fff;
+	color: #000000;
 	border-radius: 6px;
 	/* layout */
 	display: inline-block;
