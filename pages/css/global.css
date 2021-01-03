@@ -53,7 +53,7 @@ header {
 	cursor: pointer;
 }
 /* small buttons */
-.button_small       { background: #333 }
+.button_small       { background: transparent; }
 .button_small:hover { background: #444; color: #43bca5 }
 /* big buttons */
 .button_big {
