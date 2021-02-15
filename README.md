@@ -38,4 +38,4 @@ then do npm install the npm start
 
 # ![Wrapper Online](pages/img/logo4s.png)
 # ![Wrapper Online Video List](pages/img/list_logo.png)
-# ![Wrapper Online Alternated Video List](pages/img/alternatedlogo.png)
+# ![Wrapper Online Alternated Video List](pages/img/list_logo.svg)
