@@ -31,7 +31,7 @@ then do npm install the npm start
 # Host On Herokuapp
 1. make a account
 2. go to dashboard heroku
-3. go to (yourname.herokuapp.com)
+3. type the name you want for your app. (as long its unpatchable.)
 4. connect to github
 5. click to deploy it
 6. And Boom i'm got Wrapper Online on Heroku
